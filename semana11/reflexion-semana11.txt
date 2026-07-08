@@ -1,0 +1,11 @@
+Una plataforma de participación ciudadana necesita una base de datos para almacenar
+de forma estructurada la información sobre causas, apoyos y usuarios, permitiendo
+consultas y trazabilidad.
+La autenticación es esencial para identificar a las personas que interactúan y para
+controlar permisos sobre quién puede crear, editar o eliminar contenido.
+La protección de la información evita exposiciones que pongan en riesgo la privacidad
+de la comunidad o posibiliten usos indebidos de datos sensibles.
+Sin buenas prácticas de seguridad la confianza de los usuarios se pierde y la
+plataforma puede ser objeto de manipulaciones o filtraciones.
+Por eso es crítico aplicar cifrado, control de accesos y minimizar la información
+que se publica públicamente.

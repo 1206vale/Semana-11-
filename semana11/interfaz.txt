@@ -1,0 +1,11 @@
+La interfaz propuesta es simple y accesible para todo público.
+
+- Formulario para crear una causa: campos para título, descripción y fecha.
+- Botón para apoyar una causa: botón visible junto a cada entrada de la lista.
+- Contador de apoyos: muestra el número total de apoyos por causa, actualizado
+  en tiempo real o al recargar la vista.
+- Vista de causas disponibles: lista con título, descripción corta, autor y contador
+  de apoyos; opción para ver detalles de cada causa.
+
+La interfaz debe ser clara, con botones grandes y texto legible, y nunca mostrar
+datos sensibles de los usuarios en la lista pública.
